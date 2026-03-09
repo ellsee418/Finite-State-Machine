@@ -1,0 +1,7 @@
+﻿  AttackingState.cpp
+  IdleState.cpp
+  MovingState.cpp
+  StateManager.cpp
+  main.cpp
+  Generating Code...
+  Finite State Machine.vcxproj -> C:\Users\dh17crt\source\repos\Finite State Machine\x64\Debug\Finite State Machine.exe
